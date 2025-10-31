@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import {
   Github, Linkedin, Mail, Code2, Database, Cloud, Cpu,
   GitBranch, Server, Terminal, Zap, Binary, Brain, Sparkles,
