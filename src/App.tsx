@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Github, Linkedin, Mail, Code2, Database, Cloud, Cpu, ExternalLink, ChevronDown, Phone, MessageCircle, Box, GitBranch, Server, Terminal, Zap, Binary, Brain, Sparkles } from 'lucide-react';
+import  { useState, useEffect } from 'react';
+import { Github, Linkedin, Mail, Code2, Database, Cloud, Cpu,  Phone, MessageCircle, Box, GitBranch, Server, Terminal, Zap, Binary, Brain, Sparkles } from 'lucide-react';
 
 export default function Portfolio() {
   const [scrollY, setScrollY] = useState(0);
