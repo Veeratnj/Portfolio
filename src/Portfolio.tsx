@@ -150,19 +150,19 @@ export default function Portfolio() {
         <h2 className="display-5 fw-bold text-gradient mb-4">Get In Touch</h2>
         <p className="text-light mb-4">Let's build something amazing together</p>
         <div className="d-flex flex-wrap justify-content-center gap-3">
-          <a href="mailto:veerakumar@example.com" className="btn btn-outline-light d-flex align-items-center gap-2 px-4">
+          <a href="mailto:veerakumarpythonengineer@gmail.com" className="btn btn-outline-light d-flex align-items-center gap-2 px-4">
             <Mail /> Email
           </a>
-          <a href="https://wa.me/1234567890" className="btn btn-outline-success d-flex align-items-center gap-2 px-4">
+          <a href="https://wa.me/9600187309" className="btn btn-outline-success d-flex align-items-center gap-2 px-4">
             <MessageCircle /> WhatsApp
           </a>
-          <a href="tel:+1234567890" className="btn btn-outline-primary d-flex align-items-center gap-2 px-4">
+          <a href="tel:+919600187309" className="btn btn-outline-primary d-flex align-items-center gap-2 px-4">
             <Phone /> Call
           </a>
-          <a href="https://github.com/veerakumar" className="btn btn-outline-light d-flex align-items-center gap-2 px-4">
+          <a href="https://github.com/veerakumarpythonengineer" className="btn btn-outline-light d-flex align-items-center gap-2 px-4">
             <Github /> GitHub
           </a>
-          <a href="https://linkedin.com/in/veerakumar" className="btn btn-outline-info d-flex align-items-center gap-2 px-4">
+          <a href="https://www.linkedin.com/in/veerakumar-murugesan/" className="btn btn-outline-info d-flex align-items-center gap-2 px-4">
             <Linkedin /> LinkedIn
           </a>
         </div>
