@@ -71,7 +71,7 @@ export default function Portfolio() {
 
       {/* Hero */}
       <section id="hero" className="d-flex flex-column justify-content-center align-items-center vh-100 text-center px-3">
-        <h1 className="display-3 fw-bold text-gradient mb-3">Veerakumar Mrugesan</h1>
+        <h1 className="display-3 fw-bold text-gradient mb-3">Veerakumar Murugesan</h1>
         <h2 className="text-light mb-3">Python Developer</h2>
         <p className="text-secondary mb-2">Revolite Infotech | Mar 2023 – Present</p>
         <p className="text-light mb-4">
@@ -153,7 +153,7 @@ export default function Portfolio() {
           <a href="mailto:veerakumarpythonengineer@gmail.com" className="btn btn-outline-light d-flex align-items-center gap-2 px-4">
             <Mail /> Email
           </a>
-          <a href="https://wa.me/9600187309" className="btn btn-outline-success d-flex align-items-center gap-2 px-4">
+          <a href="https://wa.me/919600187309" className="btn btn-outline-success d-flex align-items-center gap-2 px-4">
             <MessageCircle /> WhatsApp
           </a>
           <a href="tel:+919600187309" className="btn btn-outline-primary d-flex align-items-center gap-2 px-4">
@@ -169,7 +169,7 @@ export default function Portfolio() {
       </section>
 
       <footer className="py-4 text-center text-secondary border-top border-secondary">
-        © 2025 Veerakumar Mrugesan. Building the future with AI and automation.
+        © 2025 Veerakumar Murugesan. Building the future with AI and automation.
       </footer>
 
       <style>{`
