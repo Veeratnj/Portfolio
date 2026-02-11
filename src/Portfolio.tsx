@@ -73,7 +73,7 @@ export default function Portfolio() {
       {/* Hero */}
       <section id="hero" className="d-flex flex-column justify-content-center align-items-center vh-100 text-center px-3">
         <h1 className="display-3 fw-bold text-gradient mb-3">Veerakumar Murugesan</h1>
-        <h2 className="text-light mb-3">Python Developer</h2>
+        <h2 className="text-light mb-3">Python Engineer</h2>
         {/* <p className="text-secondary mb-2">Revolite Infotech | Mar 2023 – Present</p> */}
           <p className="text-secondary mb-2">Revolite Infotech | Mar 2023 – Dec 2025</p>
           <p className="text-secondary mb-2">Capgemini | Jan 2026 – Present</p>
