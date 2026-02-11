@@ -42,6 +42,7 @@ export default function Portfolio() {
     { name: 'Agno', icon: <Sparkles />, category: 'AI/ML' },
     { name: 'LangChain', icon: <GitBranch />, category: 'AI/ML' },
     { name: 'AI Agents', icon: <Cpu />, category: 'AI/ML' },
+      { name: 'LangGraph', icon: <GitBranch />, category: 'AI/ML' },
     { name: 'Docker', icon: <Box />, category: 'DevOps' },
     { name: 'CI/CD', icon: <GitBranch />, category: 'DevOps' },
     { name: 'AWS', icon: <Cloud />, category: 'DevOps' },
@@ -73,10 +74,12 @@ export default function Portfolio() {
       <section id="hero" className="d-flex flex-column justify-content-center align-items-center vh-100 text-center px-3">
         <h1 className="display-3 fw-bold text-gradient mb-3">Veerakumar Murugesan</h1>
         <h2 className="text-light mb-3">Python Developer</h2>
-        <p className="text-secondary mb-2">Revolite Infotech | Mar 2023 – Present</p>
-        <p className="text-light mb-4">
-          Building intelligent systems with AI automation, scalable APIs, and data engineering
-        </p>
+        {/* <p className="text-secondary mb-2">Revolite Infotech | Mar 2023 – Present</p> */}
+          <p className="text-secondary mb-2">Revolite Infotech | Mar 2023 – Dec 2025</p>
+          <p className="text-secondary mb-2">Capgemini | Jan 2026 – Present</p>
+          <p className="text-light mb-4">
+            Building intelligent systems with AI automation, scalable APIs, and data engineering
+          </p>
         <a href="#contact" className="btn btn-lg btn-gradient rounded-pill px-5">Get In Touch</a>
       </section>
 
@@ -89,7 +92,10 @@ export default function Portfolio() {
             <span className="text-info"> API development</span>, AI automation, and data-driven systems.
           </p>
           <p>
-            At Revolite Infotech, I build AI agents, automate workflows, and integrate real-time APIs to enhance efficiency and scalability.
+              At Revolite Infotech, I built AI agents, automated workflows, and integrated real-time APIs to enhance efficiency and scalability.
+            </p>
+            <p>
+              At Capgemini, I focus on advanced AI/ML solutions, enterprise automation, and scalable cloud integrations.
           </p>
           <p>
             Passionate about <span className="text-warning">automation</span> and
