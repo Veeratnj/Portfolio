@@ -156,13 +156,13 @@ export default function Portfolio() {
         <h2 className="display-5 fw-bold text-gradient mb-4">Get In Touch</h2>
         <p className="text-light mb-4">Let's build something amazing together</p>
         <div className="d-flex flex-wrap justify-content-center gap-3">
-          <a href="mailto:veerakumarpythonengineer@gmail.com" className="btn btn-outline-light d-flex align-items-center gap-2 px-4">
+          <a href="mailto:veerakumarhgkfm@gmail.com" className="btn btn-outline-light d-flex align-items-center gap-2 px-4">
             <Mail /> Email
           </a>
-          <a href="https://wa.me/919600187309" className="btn btn-outline-success d-flex align-items-center gap-2 px-4">
+          <a href="https://wa.me/8248831127" className="btn btn-outline-success d-flex align-items-center gap-2 px-4">
             <MessageCircle /> WhatsApp
           </a>
-          <a href="tel:+919600187309" className="btn btn-outline-primary d-flex align-items-center gap-2 px-4">
+          <a href="tel:+918248831127" className="btn btn-outline-primary d-flex align-items-center gap-2 px-4">
             <Phone /> Call
           </a>
           <a href="https://github.com/veerakumarpythonengineer" className="btn btn-outline-light d-flex align-items-center gap-2 px-4">
