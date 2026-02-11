@@ -88,7 +88,7 @@ export default function Portfolio() {
         <h2 className="display-5 fw-bold text-gradient mb-4">About Me</h2>
         <div className="bg-dark p-4 rounded-4 shadow text-start">
           <p>
-            I'm a <span className="text-info fw-semibold">Python Developer</span> specializing in
+            I'm a <span className="text-info fw-semibold">Python Engineer</span> specializing in
             <span className="text-info"> API development</span>, AI automation, and data-driven systems.
           </p>
           <p>
